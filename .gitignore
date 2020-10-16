@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 env/
 .env/
+=======
+.ipynb_checkpoints/
+.env/
+.vscode/
+>>>>>>> 91ea7d6b10eda6b751874f4e3c67831b99782b60
